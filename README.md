@@ -1,12 +1,12 @@
-- 👋🏻 Hi, I’m @ebay0613
+- Hi, I’m @ebay0613
 
-- 👀 I’m interested in learning to code including web and app development, music production, learning languages
+- I’m interested in learning to code including web and app development, and some of my other interests include music production, learning languages and singing.
 
-- 🌱 I’m currently a beginner learning Python and JavaScript and will hopefully learn Bash and dabble in C++ later.
+- 🌱 I’m currently a beginner learning Python and JavaScript and will hopefully dabble in C++ later.
 
 - 💜 I’m looking to collaborate on some personal projects if more experienced people are willing to help out a beginner and answer some potentially silly questions (from their perspective).
 
-- 📫  Reach me via email at genderfluidarmy@duck.com.
+- Reach me via email at genderfluidarmy@duck.com or ericabayleigh@gmail.com.
 
 - 😊 Pronouns: he/they/she (in order of preference)
 
